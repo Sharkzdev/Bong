@@ -5,9 +5,9 @@ pygame.init()
 win_height = 500
 win_width = 750
 win = pygame.display.set_mode((win_width,win_height))
-pygame.display.set_caption('Pong')
-icon = pygame.image.load('ghost.png')
-pygame.display.set_icon(icon)
+#pygame.display.set_caption('Pong')
+#icon = pygame.image.load('ghost.png')
+#pygame.display.set_icon(icon)
 
 #info.miscalniouse
 hit = True
