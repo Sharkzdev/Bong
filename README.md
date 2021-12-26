@@ -3,7 +3,7 @@
 
 Pong a very customizable game due to it's lack of colour, animation and general scheme. 
 I replicated Pong taking advantage of this factor, changing the pallet to pink and white.
-A more pleasing GUI contrary to it's old grim cousin's scheme black and white.
+A more pleasing GUI contrary to it's primitive grim black and white scheme.
 
 I post dev content on my social medias:
 Instagram: sharkzdev
